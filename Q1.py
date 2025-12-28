@@ -1,8 +1,8 @@
 # Create variables with different data types
-my_age = 3
+my_age = 18
 my_height = 5.7
-my_name = "AI Assistant"
-are_you_student = False
+my_name = "VINAY"
+are_you_student = True
 
 # Print all variables with nice formatting
 print(f"Name: {my_name}")
